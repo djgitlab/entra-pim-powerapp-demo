@@ -1,0 +1,14 @@
+{
+  "notes": "Sanitized examples only. Replace with representative request shapes.",
+  "examples": [
+    {
+      "name": "Activation request example",
+      "method": "POST",
+      "path": "/v1.0/REDACTED",
+      "body": {
+        "justification": "Reason for activation",
+        "duration": "PT1H"
+      }
+    }
+  ]
+}

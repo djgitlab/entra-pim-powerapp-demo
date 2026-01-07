@@ -1,0 +1,20 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Power Platform exports and unpacked artifacts (decide later if you want to include)
+*.zip
+
+# Secrets
+.env
+*.secret*
+secrets.json
+
+# Build artifacts
+bin/
+obj/

@@ -1,0 +1,15 @@
+{
+  "roles": [
+    {
+      "roleName": "Security Reader",
+      "status": "Eligible",
+      "maxDuration": "PT2H",
+      "approvalRequired": true
+    },
+    {
+      "roleName": "User Administrator",
+      "status": "Active",
+      "expires": "2026-01-06T20:00:00Z"
+    }
+  ]
+}
