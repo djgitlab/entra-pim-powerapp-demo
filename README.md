@@ -23,28 +23,28 @@ No client data, credentials, or tenant-specific identifiers are included.
 ### Role Overview and Status
 The main landing experience shows eligible and active roles, current status, and expiration context in a single view.
 
-![Roles overview](docs/screenshots/roles-overview.png)
+![Roles overview](powerapp/docs/screenshots/roles-overview.png)
 
 ---
 
 ### Eligible Roles
 Users can filter and browse roles they are eligible to activate, clearly separated from active assignments.
 
-![Eligible roles](docs/screenshots/eligible-roles.png)
+![Eligible roles](powerapp/docs/screenshots/eligible-roles.png)
 
 ---
 
 ### Requesting Role Activation
 Activations require explicit user intent, including scheduled start time, duration, and justification.
 
-![Activation request](docs/screenshots/activation-request.png)
+![Activation request](powerapp/docs/screenshots/activation-request.png)
 
 ---
 
 ### Activation Progress and Completion
 Activation requests are handled asynchronously with clear progress feedback and final status confirmation.
 
-![Activation in progress](docs/screenshots/activation-in-progress.png)
+![Activation in progress](powerapp/docs/screenshots/activation-in-progress.png)
 
 
 ## Core Capabilities
